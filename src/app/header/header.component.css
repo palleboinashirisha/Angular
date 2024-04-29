@@ -1,0 +1,16 @@
+.header{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    gap: 5% ;
+    background-color: white;
+    margin: auto;
+    padding: 30px 10px;
+   
+}
+.head-para{
+    font-size: 18px;
+    color: blueviolet;
+    text-align: justify;
+}
